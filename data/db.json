@@ -1,0 +1,24 @@
+{
+    "items": [
+      {
+        "date": "Jan 1st",
+        "percentage": 45,
+        "id": 1
+      },
+      {
+        "date": "Jan 2nd",
+        "percentage": 67,
+        "id": 2
+      },
+      {
+        "date": "Jan 3rd",
+        "percentage": 80,
+        "id": 3
+      },
+      {
+        "date": "Jan 4th",
+        "percentage": 60,
+        "id": 4
+      }
+    ]
+  }
