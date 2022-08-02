@@ -1,8 +1,6 @@
-# 😴 Sleep Quality Calculator
-![daaaa](https://user-images.githubusercontent.com/77998447/182266634-53457110-5603-4b27-a9cc-ce760a88ac6b.png)
-
+# 😴 Sleep Quality Tracker
 Your accurate way to understand sleep, one night at a time.
-
+![daaaa](https://user-images.githubusercontent.com/77998447/182266634-53457110-5603-4b27-a9cc-ce760a88ac6b.png)
 ## Description
 
 ### Overview
